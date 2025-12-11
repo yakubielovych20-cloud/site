@@ -1,0 +1,227 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-image:url('https://colorhunt.co/palette/3b02706f00ffe9b3fbfff1f1');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #bd0211;
+    font-family: Consolas;
+}
+.Forsaken{
+   text-align: center; 
+   width: 700px;
+} 
+.Fors{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia;
+    color: #09948f;
+}
+.two-time1{
+    color: black;
+    padding: 100px;
+    font-size: 60px;
+    font-family: Monospace;
+}
+.two-time-photo{
+    width: 500px;
+    height: 400px;
+    padding-left: 140px;
+    padding-top: 0px;
+}
+.two-time-text{
+    font-size: 40px;
+    color: #6b0999;
+    font-family: Georgia;
+    text-align: center;
+}
+.Azure{
+    padding-left: 100px;
+    width: 600px;
+    height: 400px;
+}
+.Azure-LMS{
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia;
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: center;
+    text-decoration: none;
+}
+.Milestouns-tt{
+    color: purple;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-decoration: none;
+}
+.Shedletsky{
+    text-align: center;
+    padding: 60px;
+    font-size: 50px;
+    font-family: Verdana;
+    color: #b86d04;
+    display: flex;
+    flex-wrap: no-wrap;
+}
+.Shedletsky-photo{
+    width: 500px;
+    padding: 30px;
+    height: 400px;
+}
+.Shedletsky-text{
+    color: #963b06;
+    font-size: 30px;
+    text-align: left;
+}
+.lms-1x1x1x1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Courier;
+    color: green;
+    text-decoration: none;
+}
+.Milestouns-shedl{
+    color: purple;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    text-decoration: none;
+}
+.teleport-t1{
+    padding: 30px;
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia;
+    color: darkred;
+}
+.teleport-photo{
+    padding: 30px;
+    width: 500px;
+    height: 400px;
+}
+.teleport-t2{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    color: darkred;
+}
+.LMS-1{
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    text-decoration: none;
+}
+.teleport-m{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia;
+    text-decoration: none;
+}
+.killer{
+    color: red;
+    font-size: 70px;
+    font-family: Impact;
+}
+.first-killer{
+    color: brown;
+    font-size: 50px;
+    font-family: Verdana;
+    text-align: center;
+}
+.Slasher{
+    text-align: center;
+    padding: 50px;
+    width: 650px;
+   height: 450px;
+}
+.Slash{
+    color: #ab1909;
+    font-size: 40px;
+    text-align: center;
+    font-family: Trebuchet;
+}
+.fire-jason{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia;
+    text-decoration: none;
+    color: darkred;
+}
+.next-killer{
+    color: red;
+    text-align: center;
+    font-family: Impact;
+    font-size: 50px;
+}
+.guest{
+    width: 500px;
+    height: 400px;
+    padding-left: 150px;
+}
+.guest666{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    color: #e81902;
+    font-family: Georgia;
+}
+.best-lms{
+    color: darkred;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana;
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+.Guest667{
+    color: red;
+    font-size: 30px;
+    font-family: Verdana;
+    text-align: center;
+    padding: 80px;
+    text-decoration: none;
+}
+.last-killer{
+    text-align: center;
+    padding-top: 150px;
+    color: #40ba30;
+    font-size: 40px;
+    font-family: Monospace;
+    letter-spacing: 3px;
+}
+.last_photo{
+    width: 500px;
+    height: 500px;
+    padding-left: 150px;
+}
+.last-text{
+    color: darkgreen;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-family: Verdana;
+    text-align: center;
+}
+.last-href{
+    color: darkgreen;
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia;
+    text-decoration: none;
+}
+.my-text{
+    color: blue;
+    font-size: 50px;
+    background-color: #c90c4b;
+    font-family: Georgia;
+}
